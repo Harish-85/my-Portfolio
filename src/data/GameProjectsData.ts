@@ -1,101 +1,95 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Optimistic Chubby", "img/projects/project-1-icon.png", 
+    new ProjectData("project-1", "Battle M.A.Y.H.E.M", "img/projects/battlemayhem/battleMayhem.jpg",
     `
     <div class="paragraph">
-     <strong>Optimistic Chubby</strong> is a thing of beauty that I am so proud of. It's available on Android because why not.
-     <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>.
+     <strong>Battle M.A.Y.H.E.M</strong> is a fast paced couch multiplayer game where you fight against your friends through the use of various weapons and powerups. This  game was made by 2 people over a span of 4 months
+     
     </div>
+   
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <iframe frameborder="0" src="https://itch.io/embed/2935303" width="552" height="167"><a href="https://unknown-coder.itch.io/battle-mayhem">Battle MAYHEM by Unknown_Coder, GGgoutham</a></iframe>
     </div>
-    <div class="paragraph center">
-        <a href="https://play.google.com/store/apps/details?id=some.playstore.thing" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
-    </div>
+  
 
     <div class="paragraph">
-        Main features :
+        What I worked on:
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Multiplayer System</li>
+        <li>Vehicle Physics</li>
+        <li>Weapons</li>
+        <li>Visual Effects</li>
+        <li>Arenas</li>
         </ul>
     </div>
 
     <div class="paragraph center">
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
+        <img class="pc-screenshot" src="img/projects/battlemayhem/mainmenu.png" alt="Poster image" />
+        <img class="pc-screenshot" src="img/projects/battlemayhem/meteor.png" alt="Poster image" />
+    </div>
+    <div class="paragraph center">
+        <img class="pc-screenshot" src="img/projects/battlemayhem/arena2.jpg" alt="Poster image" />
+        <img class="pc-screenshot" src="img/projects/battlemayhem/tornado.png" alt="Poster image" />
     </div>
     `, "#23bd69", true),
-    new ProjectData("project-2", "Singing Addict", "img/projects/project-2-icon.png", `
+    new ProjectData("project-2", "Neon Rider", "img/projects/NeonRider/img1.png", `
     <div class="paragraph">
-        <strong>Optimistic Chubby Blog</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@adonyi-gabor-604571">Adonyi Gábor</a>.
+        <strong>Neon Rider</strong> is a small game that was made in 48 hours for a game jam. Here i was experimenting with vfx graph and made a audio visualizer that reacts to the music in the background.
+        
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <iframe width="347" height="195" src="https://www.youtube.com/embed/XVSFvIaW9tE" title="Neon Rider" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Simple physics based movement</li>
+        <li>Procedural Generation</li>
+        <li>Audio Visualizing VFX</li>
+        
         </ul>
     </div>
 
-    <div class="paragraph">
-    <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-    </div>
+    <div class="paragraph center">
+   
     </div>
 
     <div class="paragraph center">
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
+    <img class="pc-screenshot" src="img/projects/NeonRider/img1.png" alt="Screenshot of game 1" />
+    <img class="pc-screenshot" src="img/projects/NeonRider/img2.png" alt="Screenshot of game 1" />
+     <div >
+        <iframe frameborder="0" src="https://itch.io/embed/2731030" width="552" height="167"><a href="https://unknown-coder.itch.io/neon-racer">Neon Rider by Unknown_Coder</a></iframe>
+    </div>
     </div>
     `, "#5a78af"),
-    new ProjectData("project-3", "Drawing Overload", "img/projects/project-3-icon.png", `
+    new ProjectData("project-3", "Labyrinth", "img/projects/labyrinth/img1.jpg", `
     <div class="paragraph">
-        <strong>Drawing Overload</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
+        <strong>Labyrithn</strong> is a horror metroidvania game made in a week for a college game jam. I worked with a designer and an artist.
         <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
-    </div>
-    <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Small open world</li>
+        <li>Fully Voiced NPC</li>
+        <li>Hand drawn Pencil style Art</li>
         </ul>
     </div>
 
-    <div class="paragraph">
-        <div class="notice">
-        Playable in the browser (WebGL) on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
-    </div>
-
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
+        <img class="pc-screenshot" src="img/projects/Labyrinth/img2.jpg" alt="Screenshot" />
+        <img class="pc-screenshot" src="img/projects/Labyrinth/img3.jpg" alt="Screenshot" />
+        <img class="pc-screenshot" src="img/projects/Labyrinth/img4.png" alt="Screenshot" />
+        <img class="pc-screenshot" src="img/projects/Labyrinth/final.jpg" alt="Screenshot" />
     </div>
+    <div class="paragraph center">
+    <iframe frameborder="0" src="https://itch.io/embed/2165078" width="552" height="167"><a href="https://unknown-coder.itch.io/labirynth">Labyrinth by Unknown_Coder, boncy100, soom69</a></iframe>
+</div>
     `, "#383838"),
-    new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
+    new ProjectData("project-4", "Neon Ballz", "img/projects/project-4-icon.png", `
     <div class="paragraph">
     <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
     <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
