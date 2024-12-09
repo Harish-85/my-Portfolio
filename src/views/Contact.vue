@@ -3,36 +3,28 @@
     
     <h1>Let's get in touch</h1>
 
-    <div style="margin-bottom:40px;">I'm looking for a job !<br/>Feel free to contact me about any opportunity, or just to chat about cooking, kittens or anything else.</div>
+    <div style="margin-bottom:40px;">I'm looking for a job !<br/>Feel free to contact me about any opportunity, or just to chat about graphics programming .</div>
 
     <ul>
       <li>
-        <i class="fa fa-user-circle-o fa-lg fa-fw"></i>
-        <a href="http://mywebsite.com" target="_blank">https://mywebsite.com</a>
+        <i class="fa fa-envelope-o fa-lg fa-fw"></i>
+        <a href="mailto:harishneethi@email.com" target="_blank">harishneethi@email.com</a>
       </li>
       <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i>
-        <a href="mailto:my@email.com" target="_blank">my@email.com</a>
+        <a href="tel:+919514366924" target="_blank">+91 95143 66924</a>
       </li>
       <li>
         <i class="fa fa-linkedin fa-lg fa-fw" style="vertical-align: -5%;"></i>
-        <a href="https://www.linkedin.com/me" target="_blank">linkedin.com/me</a>
+        <a href="https://www.linkedin.com/in/harish-neethi/" target="_blank">linkedin.com/in/harish-neethi/</a>
       </li>
       <li>
         <i class="fa fa-github fa-lg fa-fw"></i>
-        <a href="https://github.com/me" target="_blank">github.com/me</a>
+        <a href="https://github.com/Harish-85" target="_blank">github.com/Harish-85</a>
       </li>
       <li>
         <i class="fa fa-gamepad fa-lg fa-fw"></i>
-        <a href="https://myself.itch.io" target="_blank">myself.itch.io</a>
-      </li>
-      <li>
-        <i class="fa fa-tumblr fa-lg fa-fw"></i>
-        <a href="https://myblog.tumblr.com" target="_blank">myblog.tumblr.com</a>
-      </li>
-      <li>
-        <i class="fa fa-steam fa-lg fa-fw"></i>
-        <a href="https://steamcommunity.com/id/me" target="_blank">steam.com/me</a>
+        <a href="https://unknown-coder.itch.io/" target="_blank">unknown-coder.itch.io</a>
       </li>
     </ul>
 
@@ -65,3 +57,5 @@ i {
   margin-right: 20px;
 }
 </style>
+<script lang="ts">
+</script>
